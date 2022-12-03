@@ -1,0 +1,83 @@
+C:\Users\User\Desktop\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe.config
+C:\Users\User\Desktop\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe
+C:\Users\User\Desktop\uchpraktika\uchpraktika\bin\Debug\uchpraktika.pdb
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form1.resources
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form2.resources
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Properties.Resources.resources
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.GenerateResource.cache
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.exe
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.pdb
+C:\Users\User\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form3.resources
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe.config
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\bin\Debug\uchpraktika.pdb
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form1.resources
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form2.resources
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form3.resources
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Properties.Resources.resources
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.exe
+C:\Users\admin\Desktop\uchpraktika\uchpraktika\obj\Debug\uchpraktika.pdb
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe.config
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\bin\Debug\uchpraktika.pdb
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form1.resources
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form2.resources
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form3.resources
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Properties.Resources.resources
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.GenerateResource.cache
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.exe
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.pdb
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form4.resources
+C:\Users\User\Desktop\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form5.resources
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe.config
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\bin\Debug\uchpraktika.pdb
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form1.resources
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form2.resources
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form3.resources
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form4.resources
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form5.resources
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Properties.Resources.resources
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.exe
+C:\Users\admin\Desktop\практика\практика, болк-схемы\uchpraktika\uchpraktika\obj\Debug\uchpraktika.pdb
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe.config
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\bin\Debug\uchpraktika.pdb
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form1.resources
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form2.resources
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form3.resources
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form4.resources
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form5.resources
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.exe
+C:\Users\User\Desktop\Новая папка (2)\uchpraktika\uchpraktika\obj\Debug\uchpraktika.pdb
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe.config
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\bin\Debug\uchpraktika.exe
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\bin\Debug\uchpraktika.pdb
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form1.resources
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form2.resources
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form3.resources
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form4.resources
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Form5.resources
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.Properties.Resources.resources
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.exe
+C:\Users\admin\Desktop\картинная галерея\uchpraktika\uchpraktika\obj\Debug\uchpraktika.pdb
